@@ -1,0 +1,61 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: gray;
+}
+form input{
+  margin: 10px;
+  background-color: white;
+}
+
+ul {
+  list-style: none;
+  align-items: center;
+  text-align: center;
+  margin: 10px;
+  font-size: 15px;  
+}
+
+h1 {
+  background-color: black;
+  color: white;  
+  align-items: center;
+  text-align: center;
+
+}
+
+
+li {  
+  display: inline-block;
+  background-color: white;
+  border: 1px solid ;  
+  border-radius: 30vh;
+  width: 70%;
+  height: 100%;  
+  padding: 10px;
+  margin: 10px;
+}
+
+
+.rank {
+  display: inline-block;
+  text-align: center;
+  background-color: red;
+  width: 20px;
+  height: 100%;
+  float: left;
+  
+
+}
+
+.mvname {
+  background-color: white;
+}
+
+.updown {
+  display: inline-block;
+  float: right;
+  background-color: white;
+}
